@@ -1,6 +1,6 @@
 
 # reaction-timer
-## Discrption 
+## Description
 it's a small game to test your rections 
 it was a small project in the vue course by net ninja on udemy 
 
